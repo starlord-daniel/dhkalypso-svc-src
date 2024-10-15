@@ -10,6 +10,6 @@ spec:
     - name: prometheus
       environment: dev
       manifests:
-        repo: https://github.com/microsoft/kalypso-svc-gitops
+        repo: https://github.com/starlord-daniel/dhkalypso-svc-gitops
         branch: dev
         path: ./prometheus
